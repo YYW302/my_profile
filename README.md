@@ -16,8 +16,8 @@ I'm a **Front-end Developer** with 3+ years experience in **marketing**. I enjoy
 
 ---
 
-### 🛠  I'm working on...
-- A React app for pets and home plants lovers  
+### 🛠  I'm learning & working on...
+- More advanced React apps 
 
 ---
 
