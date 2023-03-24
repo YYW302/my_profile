@@ -5,18 +5,23 @@ I'm a **Front-end Developer** with 3+ years experience in **marketing**. I enjoy
 ---
 
 ### 🎨  My Projects
+- Meme generator: re-create Top100 meme ([demo](https://lustrous-kleicha-76cc6a.netlify.app/) | [code](https://github.com/HelmerR302/Meme_Generator))
+
+- Landing page: Daily Spell ([demo](https://helmerr302.github.io/Homepage_Daily-Spell/) | [code](https://github.com/HelmerR302/Homepage_Daily-Spell))
+
 - Front-end challenges from Frontend.com [my profile](https://www.frontendmentor.io/profile/Helmer135)
     - nft preview card ([demo](https://helmerr302.github.io/01_nft-preview-card-component/) | [code](https://github.com/HelmerR302/01_nft-preview-card-component))
     - Testimonials grid section ([demo](https://helmerr302.github.io/02_testimonials-grid-section/) | [code](https://github.com/HelmerR302/02_testimonials-grid-section))
     - Password generator ([demo](https://helmerr302.github.io/03_Password-generator/) | [code](https://github.com/HelmerR302/03_Password-generator))
 
-- Landing page: Daily Spell ([demo](https://helmerr302.github.io/Homepage_Daily-Spell/) | [code](https://github.com/HelmerR302/Homepage_Daily-Spell))
-
 - VS Studio theme ([extension store](https://marketplace.visualstudio.com/items?itemName=Helmerz.50-theme) | [code](https://github.com/HelmerR302/50-theme))  
 
 ---
 
-### 🛠  I'm learning & working on...
+### 🛠  I'm learning ...
+- Web administration & advanced React technics
+
+### 📔  I'm working on...
 - More advanced React apps 
 
 ---
