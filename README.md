@@ -5,6 +5,8 @@ I'm a **Front-end Developer** with 3+ years experience in **marketing**. I enjoy
 ---
 
 ### 🎨  My Projects
+- Tenzies game: roll, freeze, and win! ([demo](https://steady-brigadeiros-c41128.netlify.app) | [code](https://github.com/HelmerR302/tenzies_game))
+
 - Meme generator: re-create Top100 meme ([demo](https://lustrous-kleicha-76cc6a.netlify.app/) | [code](https://github.com/HelmerR302/Meme_Generator))
 
 - Landing page: Daily Spell ([demo](https://helmerr302.github.io/Homepage_Daily-Spell/) | [code](https://github.com/HelmerR302/Homepage_Daily-Spell))
@@ -19,7 +21,7 @@ I'm a **Front-end Developer** with 3+ years experience in **marketing**. I enjoy
 ---
 
 ### 🛠  I'm learning ...
-- Web administration & advanced React technics
+- TypeScript & advanced React technics
 
 ### 📔  I'm working on...
 - More advanced React apps 
