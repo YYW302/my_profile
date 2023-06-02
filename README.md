@@ -1,15 +1,18 @@
 ### 🍀  Hi there, I'm Clovey
 
-I'm a **Front-end Developer** with 3+ years experience in **marketing**. I enjoy creating intuitive and effective solutions to address real-life problems while delivering use-friendly experience.  
+I'm a **Front-end Developer** with a strong background in **marketing**. I enjoy creating intuitive and effective solutions to address real-life problems while delivering user-friendly experience.  
 
 ---
 
 ### 🎨  My Projects
+
+- Space Tourism Multipage Website ([demo](https://effortless-genie-06850f.netlify.app/) | [code](https://github.com/HelmerR302/Space_tourism))
+
 - Tenzies game: roll, freeze, and win! ([demo](https://steady-brigadeiros-c41128.netlify.app) | [code](https://github.com/HelmerR302/tenzies_game))
 
-- Meme generator: re-create Top100 meme ([demo](https://lustrous-kleicha-76cc6a.netlify.app/) | [code](https://github.com/HelmerR302/Meme_Generator))
-
 - Landing page: Daily Spell ([demo](https://helmerr302.github.io/Homepage_Daily-Spell/) | [code](https://github.com/HelmerR302/Homepage_Daily-Spell))
+
+-  Meme generator: re-create Top100 meme ([demo](https://lustrous-kleicha-76cc6a.netlify.app/) | [code](https://github.com/HelmerR302/Meme_Generator))
 
 - Front-end challenges from Frontend.com [my profile](https://www.frontendmentor.io/profile/Helmer135)
     - nft preview card ([demo](https://helmerr302.github.io/01_nft-preview-card-component/) | [code](https://github.com/HelmerR302/01_nft-preview-card-component))
@@ -21,7 +24,7 @@ I'm a **Front-end Developer** with 3+ years experience in **marketing**. I enjoy
 ---
 
 ### 📔  I'm working on...
-- More advanced React apps 
+- More advanced React techniques and JavaScript algorithms 
 
 ---
 
