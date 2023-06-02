@@ -14,7 +14,7 @@ I'm a **Front-end Developer** with a strong background in **marketing**. I enjoy
 
 -  Meme generator: re-create Top100 meme ([demo](https://lustrous-kleicha-76cc6a.netlify.app/) | [code](https://github.com/HelmerR302/Meme_Generator))
 
-- Front-end challenges from Frontend.com [my profile](https://www.frontendmentor.io/profile/Helmer135)
+- UI components
     - nft preview card ([demo](https://helmerr302.github.io/01_nft-preview-card-component/) | [code](https://github.com/HelmerR302/01_nft-preview-card-component))
     - Testimonials grid section ([demo](https://helmerr302.github.io/02_testimonials-grid-section/) | [code](https://github.com/HelmerR302/02_testimonials-grid-section))
     - Password generator ([demo](https://helmerr302.github.io/03_Password-generator/) | [code](https://github.com/HelmerR302/03_Password-generator))
